@@ -1,0 +1,1 @@
+Store immutable database exports here. Contents are ignored by Git by default because export redistribution terms vary. Back up this folder separately; record filename, checksum and search ID in search_runs.csv. Document any later public release decision.

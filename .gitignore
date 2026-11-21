@@ -1,0 +1,11 @@
+local_only/*
+!local_only/README.md
+02_search/raw/*
+!02_search/raw/README.md
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
