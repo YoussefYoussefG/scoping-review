@@ -25,11 +25,15 @@ Map CT phase combinations, radiomics and deep-learning methods for focal liver-l
 
 Original reading materials remain in the parent workspace folder.
 
+## Target information sources
+
+User-selected databases: PubMed, Scopus and IEEE Xplore. UpToDate and NICE are requested if available; their proposed supplementary role and access limitations are documented in [protocol.md](protocol.md). No searches have been executed.
+
 ## Decisions still needed
 
 - Final review question and PCC.
 - Inclusion of binary/multiclass tasks, single-phase comparators, and detection/segmentation-only studies.
-- Databases/access, publication types, dates and languages.
+- Database access, publication types, dates and languages.
 - Reviewer roles, deadline and target journal.
 - Existing work performed by the team outside this repository.
 
