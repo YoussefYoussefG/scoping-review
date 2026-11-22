@@ -1,6 +1,6 @@
 # HepatoLens — project brief
 
-Current stage: research methodology. Review question and eligibility remain drafts.
+Current stage: research methodology. Core scope confirmed; protocol wording and remaining eligibility rules are drafts.
 
 ## Project context from the supplied documents
 
@@ -12,7 +12,7 @@ MCT-LTDiag is the proposed primary dataset; PLC-CECT is proposed for external te
 
 ## Proposed scoping-review direction
 
-Map CT phase combinations, radiomics and deep-learning methods for focal liver-lesion classification, including evidence about the delayed phase and validation practices. This direction is inferred from the proposal and still needs team agreement. Reporting will follow PRISMA-ScR.
+Map CT phase combinations, radiomics and deep-learning methods for focal liver-lesion classification, including evidence about the delayed phase and validation practices. The user confirmed binary and multiclass classification with a multiphase CT focus and single-phase comparisons on 2026-11-22. Reporting will follow PRISMA-ScR.
 
 ## Supplied reading materials
 
@@ -27,16 +27,28 @@ Original reading materials remain in the parent workspace folder.
 
 ## Target information sources
 
-User-selected databases: PubMed, Scopus and IEEE Xplore. UpToDate and NICE are requested if available; their proposed supplementary role and access limitations are documented in [protocol.md](protocol.md). No searches have been executed.
+User-selected databases: PubMed, Scopus and IEEE Xplore. UpToDate and NICE are requested if available; their proposed supplementary role and access limitations are documented in [protocol.md](protocol.md). The user confirmed access to all three databases. Preliminary web checks are documented in the protocol; no formal database searches have been executed.
 
 ## Decisions still needed
 
 - Final review question and PCC.
-- Inclusion of binary/multiclass tasks, single-phase comparators, and detection/segmentation-only studies.
-- Database access, publication types, dates and languages.
+- Whether standalone single-phase-only studies are eligible; confirm proposed exclusion of detection/segmentation-only studies.
+- Supplementary-source access.
 - Reviewer roles, deadline and target journal.
 - Existing work performed by the team outside this repository.
 
 ## Documentation history
 
 2026-11-22: Replaced the earlier unknown-topic brief with context from the supplied documents. At the user's request, reduced the repository to methodology essentials. Earlier templates and setup logs remain recoverable in Git history. No formal review searches, screening or extraction have been performed by the assistant.
+
+2026-11-22: Recorded confirmed binary/multiclass scope and database access; expanded methodology in protocol v0.2 with proposed operational criteria in eligibility.csv.
+
+2026-11-22: User restricted the review to English-language full reports from the last three years. The protocol interprets this as a rolling three-year publication window ending on the initial search date (2023-11-22–2026-11-22 if searched today). Earlier papers may inform background but are outside the eligible primary-study corpus.
+
+2026-11-22: User confirmed human-only research; animal studies are excluded.
+
+2026-11-22: CT is the only eligible imaging modality. Scope also covers implemented agentic and multi-agent workflows for the same focal liver-lesion classification task, subject to the existing human-only, English, three-year and phase criteria. Non-CT imaging results and unrelated agent applications are outside scope.
+
+2026-11-22: Strengthened animal exclusion: exclude any study using animal subjects, imaging/data or experiments, including mixed human–animal studies regardless of separability. This replaces the earlier mixed-species exception.
+
+2026-11-22: Include only peer-reviewed original research in full journal or conference papers. Exclude all reviews, meta-analyses, preprints, non-peer-reviewed reports and abstract-only conference records. Reviews remain usable as background/citation sources only.
