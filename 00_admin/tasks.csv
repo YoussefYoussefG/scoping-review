@@ -1,6 +1,0 @@
-task_id,stage,task,owner,status,dependency,deliverable
-T001,setup,Create local repository and install skill,assistant,complete,,README.md
-T002,scope,Confirm topic and assessment report filenames,author,pending,,00_admin/project_brief.md
-T003,hosting,Upload and verify prepared workspace in public GitHub repository,owner/assistant,complete,,CONTRIBUTING.md
-T004,protocol,"Finalize PCC, eligibility, team and methods",team,pending,T002,01_protocol/protocol.md
-T005,review,"Search, screen, chart, synthesize and write",team,pending,T004,02_search/ through 07_reporting/
