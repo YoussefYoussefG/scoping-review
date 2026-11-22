@@ -22,4 +22,4 @@ Use stable IDs: search `Q0001`, imported record `R000001`, report `P000001`, und
 
 Run `python3 scripts/validate_workspace.py` to check CSV shape, identifiers and selected links. This structural check does not assess methodological completeness. Keep documentation updated with each substantive change. Commit small, meaningful changes; protocol changes also require an amendment row.
 
-This is a local Git repository. No GitHub remote, public deposit, protocol registration or submission has been made.
+GitHub repository: https://github.com/YoussefYoussefG/scoping-review . Public visibility authorized by the owner on 2026-11-22. This workspace is a draft; no protocol registration or manuscript submission has been made.

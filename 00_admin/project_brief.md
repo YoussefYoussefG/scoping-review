@@ -11,7 +11,7 @@
 - Lead author, independent reviewers, adjudicator, information specialist: TBD
 - Database access and reference manager: TBD
 - Target journal, deadline, language: TBD
-- Repository owner/name and visibility: private GitHub requested; owner YoussefYoussefG; suggested name scoping-review; remote creation pending
+- Repository owner/name and visibility: public GitHub authorized on 2026-11-22: YoussefYoussefG/scoping-review
 - Funding, conflicts, contributions, stakeholder involvement: TBD
 
 Do not infer the topic from a file name. If work predates this repository, import its actual history and label any reconstructed records explicitly; do not claim prospective registration.

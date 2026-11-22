@@ -1,11 +1,12 @@
 # Team contribution guide
 
-## Private GitHub setup
-Connected owner: YoussefYoussefG. Suggested repository name: scoping-review.
-The local repository is ready. The connected GitHub tools do not expose repository creation or collaborator invitations, and GitHub CLI is not installed. Create an empty private repository at https://github.com/new with owner YoussefYoussefG and name scoping-review. Do not initialize a README, license or gitignore. Share its URL so the prepared files can be uploaded through the connector.
+## GitHub workspace
+Repository: https://github.com/YoussefYoussefG/scoping-review
+Owner: YoussefYoussefG. Public visibility authorized on 2026-11-22.
+Use the documentation and CSV templates to maintain the review audit trail.
 
 ## Invite your teammates
-After creation, open the repository → Settings → Collaborators (under Access) → Add people. Search each teammate's GitHub username or email, choose the person and send the invitation. They must accept it. In a personal repository these are collaborators; GitHub Teams are an organization feature. Invite only intended contributors because collaborators on a personal private repository have write access.
+After creation, open the repository → Settings → Collaborators (under Access) → Add people. Search each teammate's GitHub username or email, choose the person and send the invitation. They must accept it. In a personal repository these are collaborators; GitHub Teams are an organization feature. Invite only intended contributors because invited collaborators have write access.
 Official instructions: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository
 
 ## Daily work
