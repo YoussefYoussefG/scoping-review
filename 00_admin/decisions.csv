@@ -1,4 +1,0 @@
-decision_id,date,issue,decision,rationale,evidence_path,decided_by,status
-D0001,2026-11-21,Repository,Local repo created; private GitHub requested,Remote creation capability unavailable,CONTRIBUTING.md,assistant,local complete; remote pending
-D0002,2026-11-21,Scope,Paper is an example; topic pending,User clarification,00_admin/materials_assessment.md,user,confirmed sample; project topic pending
-D0003,2026-11-22,Repository visibility,Publish prepared workspace to public repository,Owner explicitly approved public visibility,https://github.com/YoussefYoussefG/scoping-review,user,authorized

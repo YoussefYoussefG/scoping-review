@@ -1,1 +1,0 @@
-Store full texts, private manuscripts and restricted material here. Keep relative paths and checksums in tracked manifests. Originals supplied in the parent folder remain untouched. Review redistribution permissions before publication.

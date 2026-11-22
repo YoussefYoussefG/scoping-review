@@ -1,2 +1,0 @@
-activity_id,date,tool,model_or_version,purpose,input_paths,output_paths,human_verifier,verification_status,limitations
-AI0001,2026-11-21,Codex; web; GitHub connector; skill-installer,model identifier not recorded,Set up review workspace and inspect supplied material,workspace; methods pages; requested GitHub repository,templates; logs; installation record,,pending,No review searches or extraction; sample PDF first two pages inspected; HTML text inspected for document identity
